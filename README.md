@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # Skills
 
-<img src="[icons/python.svg](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" width=100px>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
